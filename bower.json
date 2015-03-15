@@ -2,6 +2,7 @@
   "name": "backbase-test",
   "private": true,
   "dependencies": {
-    "bootstrap-sass-official": "~3.2.0"
+    "bootstrap-sass-official": "~3.2.0",
+    "handlebars": "~3.0.0"
   }
 }
